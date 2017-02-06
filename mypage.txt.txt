@@ -3,6 +3,10 @@
 - 機能
 
 - EOF
+<<<<<<< HEAD
 - testy2.1
 
 master
+
+testy
+
